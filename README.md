@@ -45,11 +45,11 @@ create page from ajax data
 
 引用css, js
 
-<link rel="stylesheet" type="text/css" href="jPagerAjax/jPagerAjax.css">
+&lt;link rel="stylesheet" type="text/css" href="jPagerAjax/jPagerAjax.css"&gt;
 
-<script type="text/javascript" src="jPagerAjax/jquery-1.8.0.js"></script>
+&lt;script type="text/javascript" src="jPagerAjax/jquery-1.8.0.js"&gt;&lt;/script&gt;
 
-<script type="text/javascript" src="jPagerAjax/jquery.jPagerAjax.js"></script>
+&lt;script type="text/javascript" src="jPagerAjax/jquery.jPagerAjax.js"&gt;&lt;/script&gt;
 
 <code javascript>
 $("#table").jPagerAjax({
